@@ -1,0 +1,12 @@
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\Manish\Desktop\Development\1CodingChallenges\5DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb

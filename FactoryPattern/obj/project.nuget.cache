@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7d5Y0YBhb4gIhSSiePfwDU0zR/bsOuMGBp33wdNWZOU5CVxRr5iJFDVubseoZMB1eLQ6Waw0KN01wr6r+QXYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manish\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Manish\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Manish\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
