@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\5DesignPatternsInOne\\5DesignPatternsInOne.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\5DesignPatternsInOne\\5DesignPatternsInOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\5DesignPatternsInOne\\5DesignPatternsInOne.csproj",
+        "projectName": "5DesignPatternsInOne",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\5DesignPatternsInOne\\5DesignPatternsInOne.csproj",
+        "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\5DesignPatternsInOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\Adapter.csproj": {
+                "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\Adapter.csproj"
+              },
+              "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\Builder.csproj": {
+                "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\Builder.csproj"
+              },
+              "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Decorator\\Decorator.csproj": {
+                "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Decorator\\Decorator.csproj"
+              },
+              "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\DependencyInjection.csproj": {
+                "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\DependencyInjection.csproj"
+              },
+              "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
+                "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\Builder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\Builder.csproj",
+        "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Builder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Decorator\\Decorator.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Decorator\\Decorator.csproj",
+        "projectName": "Decorator",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\Decorator\\Decorator.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\DependencyInjection.csproj",
+        "projectName": "DependencyInjection",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+        "projectName": "FactoryPattern",
+        "projectPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+        "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manish\\Desktop\\Development\\1CodingChallenges\\5DesignPatterns\\FactoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

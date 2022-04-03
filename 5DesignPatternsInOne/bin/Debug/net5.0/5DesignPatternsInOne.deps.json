@@ -9,6 +9,7 @@
       "5DesignPatternsInOne/1.0.0": {
         "dependencies": {
           "Adapter": "1.0.0",
+          "Builder": "1.0.0",
           "Decorator": "1.0.0",
           "DependencyInjection": "1.0.0",
           "FactoryPattern": "1.0.0",
@@ -49,6 +50,11 @@
       "Adapter/1.0.0": {
         "runtime": {
           "Adapter.dll": {}
+        }
+      },
+      "Builder/1.0.0": {
+        "runtime": {
+          "Builder.dll": {}
         }
       },
       "Decorator/1.0.0": {
@@ -102,6 +108,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Builder/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
